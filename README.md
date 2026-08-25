@@ -186,4 +186,3 @@ fake-news-detection-nlp/
 │
 ├── data/
 │   └── README.md
-    └── model_comparison.png
