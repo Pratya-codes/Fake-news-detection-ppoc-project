@@ -186,8 +186,4 @@ fake-news-detection-nlp/
 │
 ├── data/
 │   └── README.md
-│
-└── visuals/
-    ├── logistic_regression_confusion_matrix.png
-    ├── svm_confusion_matrix.png
     └── model_comparison.png
