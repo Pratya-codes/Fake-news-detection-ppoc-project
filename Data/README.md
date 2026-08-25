@@ -1,20 +1,17 @@
-#Dataset
+# Dataset
 
 The datasets used for this project consist of two CSV files:
 
--`true.csv` — True news articles
--`fake.csv` — Fake news articles
+- `true.csv` — True news articles
+- `fake.csv` — Fake news articles
 
 Each dataset contains the following columns:
 
--`title`
--`text`
--`subject`
--`date`
+- `title` — News article title
+- `text` — Full news article text
+- `subject` — News category or subject
+- `date` — Publication date
 
-The original datasets are not included in this repository because of their
-file size.
+The original datasets are not included in this repository because of their file size.
 
-To reproduce the analysis, obtain the datasets separately and place
-`true.csv` and `fake.csv` in the project directory before running the
-notebook.
+To reproduce the analysis, obtain the datasets separately and place `true.csv` and `fake.csv` in the project directory before running the notebook.
